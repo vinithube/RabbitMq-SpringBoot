@@ -1,6 +1,6 @@
 # RabbitMq-SpringBoot
 
-## How to use RabbitMQ with Publisher and Consumer Example :
+How to use RabbitMQ with Publisher and Consumer Example
 
 ### Install RabbitMQ in windows :
 
